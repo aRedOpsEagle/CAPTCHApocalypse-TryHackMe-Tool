@@ -1,0 +1,5 @@
+selenium
+selenium-stealth
+fake-useragent
+pytesseract
+Pillow
