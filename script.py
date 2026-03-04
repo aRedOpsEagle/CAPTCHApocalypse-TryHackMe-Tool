@@ -42,7 +42,7 @@ stealth(chrome,
 )
 
 # CONFIG
-ip = 'http://10.81.151.51'
+ip = 'http://TARGET_MACHINE_IP'
 login_url = f'{ip}/index.php'
 dashboard_url = f'{ip}/dashboard.php'
 
